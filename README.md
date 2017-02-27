@@ -34,9 +34,9 @@ Links: [Submit Suggestion](https://github.com/zachkrall/gif-workshop/issues), [S
   * file sharing websites
   * social media
   * presentations & lectures
+
+---
   
-  ---
-  
- # Submit your creations!
+# Submit your creations!
  
-Please do not forget to send a balloon with your beautiful contributions to internet culture: [balloon.io/SVABFAGIF](https://balloon.io/SVABFAGIF) (ask for password in class)
+Please do not forget to send a balloon with your beautiful contributions to internet culture: 🎈 [balloon.io/SVABFAGIF](https://balloon.io/SVABFAGIF) (ask for password in class)
