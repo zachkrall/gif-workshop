@@ -1,5 +1,9 @@
 # Intro to GIF Workshop
-Overview and Class Files of Intro to GIF Workshop
+Class Files for Intro to GIF Workshop
+
+Links: [Submit Suggestion](https://github.com/zachkrall/gif-workshop/issues), [Send Email](mailto:zach@zachkrall.com)
+
+---
 
 ## Table of Contents
 * What are GIFs?
