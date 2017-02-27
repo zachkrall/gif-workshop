@@ -23,6 +23,8 @@ Links: [Submit Suggestion](https://github.com/zachkrall/gif-workshop/issues), [S
   * Meme Text Overlay
 * Exporting
   * for Web / Art purposes
-* Uploading
+  * File Size & Image Quality
+* Uploading / In Use
   * file sharing websites
   * social media
+  * presentations & lectures
