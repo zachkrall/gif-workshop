@@ -5,7 +5,9 @@
 # Intro to GIF Workshop
 Class Files for Intro to GIF Workshop
 
-Links: [Submit Suggestion](https://github.com/zachkrall/gif-workshop/issues), [Send Email](mailto:zach@zachkrall.com)
+These class documents are open source, so please feel free to **fork** this repository or [submit a suggestion](https://github.com/zachkrall/gif-workshop/issues).
+
+Questions and Inquiries: [zach@zachkral.com](mailto:zach@zachkrall.com)
 
 ---
 
