@@ -1,5 +1,7 @@
 ⚠️️ **still in progress** ⚠️️
 
+<img src="hmmm.gif" width="100">
+
 # Intro to GIF Workshop
 Class Files for Intro to GIF Workshop
 
