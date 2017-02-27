@@ -1,3 +1,5 @@
+⚠️️ **still in progress** ⚠️️
+
 # Intro to GIF Workshop
 Class Files for Intro to GIF Workshop
 
