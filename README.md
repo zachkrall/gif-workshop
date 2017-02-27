@@ -24,6 +24,7 @@ Links: [Submit Suggestion](https://github.com/zachkrall/gif-workshop/issues), [S
   * Looping
   * "Boomerang"
   * Meme Text Overlay
+  * **REAL CONCERN**: seizure triggers (do some research on best practice to avoid this)
 * Exporting
   * for Web / Art purposes
   * File Size & Image Quality
