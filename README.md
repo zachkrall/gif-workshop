@@ -17,6 +17,10 @@ Links: [Submit Suggestion](https://github.com/zachkrall/gif-workshop/issues), [S
   * Framerate, Keyframing, and Layers
 * Importing and using Video
   * Breif overview of using After Effects to prepare GIFs
+* Animation Techniques
+  * Looping
+  * "Boomerang"
+  * Meme Text Overlay
 * Exporting
   * for Web / Art purposes
 * Uploading
