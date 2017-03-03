@@ -67,3 +67,5 @@ A free tool called [P.E.A.T.](http://trace.umd.edu/peat) (Photosensitive Epileps
 # Submit your creations!
  
 Please do not forget to send a balloon with your beautiful contributions to internet culture: 🎈 [balloon.io/SVABFAGIF](https://balloon.io/SVABFAGIF) (ask for password in class)
+
+<br><br><br><br><br><br>
