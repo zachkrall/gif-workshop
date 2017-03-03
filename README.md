@@ -53,19 +53,16 @@ Timeline vs Frame Animation option
 
 ## Frames, Keyframing, Layers
 
-Frames: play in chronologic order and repeat. Frames can be set to have different durations.
-
-Keyframing/Tweening:
-
-Layers: static objects such as text should be at the very top. I recommend making two separate folders to keep photoshop document organized.
-
-Adjustment Layers: can be added as well! The opacity and blending modes can be set in each individual frame.
-
-## Frame Rates
-
-[Null Sleep Frame Delay Browser](http://nullsleep.tumblr.com/post/16524517190/animated-gif-minimum-frame-delay-browser)
-
-[Comparison Video](https://www.supercircuits.com/resources/tools/video-frame-rate-comparison-tool)
+* Frames: play in chronologic order and repeat. Frames can be set to have different durations.
+    * Frame rates
+        * [Null Sleep Frame Delay Browser](http://nullsleep.tumblr.com/post/16524517190/animated-gif-minimum-frame-delay-browser)
+        * [Comparison Video](https://www.supercircuits.com/resources/tools/video-frame-rate-comparison-tool)
+* Keyframing/Tweening
+    * Video Timeline Keyframing
+    * Tweening on Frame Animations
+* Layers: static objects such as text should be at the very top. I recommend making two separate folders to keep photoshop document organized.
+    * Adjustment Layers: can be added as well! The opacity and blending modes can be set in each individual frame.
+    * Text Layers
 
 ## Other "pre-production" ideas.
 
@@ -105,11 +102,15 @@ A free tool called [P.E.A.T.](http://trace.umd.edu/peat) (Photosensitive Epileps
 
 ## Video Files
 
-
+* [White Lillies](http://mazwai.com/#/videos/208)
+* [Jellyfish in Aquarium](https://videos.pexels.com/videos/video-of-jellyfishes-inside-of-aquarium-800)
+* [Fish in Aquarium](https://videos.pexels.com/videos/fishes-in-a-aquarium-959)
+* [Pollution](https://vimeo.com/groups/freehd/videos/1221054)
 * [Squirrel Eating](https://videos.pexels.com/videos/squirrel-eating-1966)
+* [Dog in Wind](https://videos.pexels.com/videos/dog-in-car-562)
 * [Lazy Cat](https://videos.pexels.com/videos/lazy-cat-1736)
 * [Video of Funny Cat](https://videos.pexels.com/videos/video-of-funny-cat-1775)
-* [Shia LaBeouf](https://vimeo.com/125095515)
+* [Shia LaBeouf Green Screen](https://vimeo.com/125095515)
 
 ---
   
