@@ -56,7 +56,10 @@ A gif, usually cinematic in appearnce, that only displays one moving item in fra
 * Exporting
   * for Web / Art purposes
   * File Size & Image Quality
+
 ## Frame Rates
+
+[Comparison Video](https://www.supercircuits.com/resources/tools/video-frame-rate-comparison-tool)
 
 ### Avoid Triggering GIFs
 
