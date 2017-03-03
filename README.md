@@ -18,6 +18,8 @@ A .gif file is used for bitmap images (or images built around pixels). While thi
 ## Why would we want to use them?
 
 GIFs original were a great way for special content or navigation on a website to have some added flair and be more visible beyond boring hyperlinks. If you don't remember, [take a look at the (still live) website for the movie Space Jam](https://www.warnerbros.com/archive/spacejam/movie/jam.htm).
+
+The flexibility of the GIF to move around the internet without needed to be embeded (like video files).
  
 ## Reaction GIFs
 
@@ -41,37 +43,63 @@ A gif, usually cinematic in appearnce, that only displays one moving item in fra
 
 ## "Wiggle"
 
+---
 
-* Setting up Photoshop environment to use GIFs
-  * Timeline vs Frame Animation
-  * Framerate, Keyframing, and Layers
-     * [Null Sleep Frame Delay Browser](http://nullsleep.tumblr.com/post/16524517190/animated-gif-minimum-frame-delay-browser)
-* Importing and using Video
-  * Breif overview of using After Effects to prepare GIFs
-* Animation Techniques
-  * Looping
-  * "Boomerang"
-  * Meme Text Overlay
-  
-* Exporting
-  * for Web / Art purposes
-  * File Size & Image Quality
+# Photoshop
+
+## Timeline (Animation) Window
+
+Timeline vs Frame Animation option
+
+## Frames, Keyframing, Layers
+
+Frames: play in chronologic order and repeat. Frames can be set to have different durations.
+
+Keyframing/Tweening:
+
+Layers: static objects such as text should be at the very top. I recommend making two separate folders to keep photoshop document organized.
+
+Adjustment Layers: can be added as well! The opacity and blending modes can be set in each individual frame.
 
 ## Frame Rates
 
+[Null Sleep Frame Delay Browser](http://nullsleep.tumblr.com/post/16524517190/animated-gif-minimum-frame-delay-browser)
+
 [Comparison Video](https://www.supercircuits.com/resources/tools/video-frame-rate-comparison-tool)
 
-### Avoid Triggering GIFs
+## Other "pre-production" ideas.
 
+Edit video in After Effects, Premiere, Final Cut prior to importing as frame layers.
+
+## Exporting Options
+
+Color space, File Size
+
+---
+
+Quick class assignment: take a short video of yourself waving, trim video file optimally for smooth alternating motion, utilize masking to reduce file size. Optional (add other photoshop effects).
+
+---
+
+### Avoid Triggering GIFs
 
 Since GIFs can only handle a small number of frames, [it's easy for a GIF to rely on quick visual changes](http://www.ibtimes.com/animated-gifs-epilepsy-dangers-849817) that may not be suitable for all students/viewers. [Smoother motion can also be more comfortable](http://trickstersgambit.tumblr.com/post/24875127375/epilepsy-warning-tags-and-how-to-use-them-a-guide) to watch for extended periods of time. 
 
 A free tool called [P.E.A.T.](http://trace.umd.edu/peat) (Photosensitive Epilepsy Analysis Tool) can be used to asses if a GIF or Video will be triggering to a viewer.
+
+---
  
-* Uploading / In Use
-  * file sharing websites
-  * social media
-  * presentations & lectures
+# Uploading and Sharing 
+
+* File Sharing Websites
+    * [pasteboard.co](pasteboard.co)
+    * [imgbb.com](https://imgbb.com/)
+    * [giphy.com/upload](https://giphy.com/upload/)
+* Social Media
+    * Facebook, shared via link
+    * Twitter, direct uploads possible
+    * Tumblr, direct uploads possible
+    * Instagram, gifs can only be uploaded as video files (reccommend looping gif a few times within video)
 
 ---
 
