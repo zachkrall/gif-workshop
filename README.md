@@ -3,11 +3,14 @@
 <img src="hmmm.gif" width="100">
 
 # Intro to GIF Workshop
-Class Files for Intro to GIF Workshop
 
-These class documents are open source, so please feel free to **fork** this repository or [submit a suggestion](https://github.com/zachkrall/gif-workshop/issues).
+These class documents are open source, so please feel free to *fork* this repository or [submit a suggestion](https://github.com/zachkrall/gif-workshop/issues).
 
 Questions and Inquiries: [zach@zachkral.com](mailto:zach@zachkrall.com)
+
+---
+
+[Class Files](https://app.box.com/s/1luhhqzm6zkok5d4on4xjoi19tmgrish)
 
 ---
 
