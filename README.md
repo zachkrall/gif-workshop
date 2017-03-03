@@ -38,6 +38,14 @@ Questions and Inquiries: [zach@zachkral.com](mailto:zach@zachkrall.com)
   * presentations & lectures
 
 ---
+
+## Video Files
+
+* [Squirrel Eating](https://videos.pexels.com/videos/squirrel-eating-1966)
+* [Lazy Cat](https://videos.pexels.com/videos/lazy-cat-1736)
+* [Video of Funny Cat](https://videos.pexels.com/videos/video-of-funny-cat-1775)
+
+---
   
 # Submit your creations!
  
