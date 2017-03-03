@@ -13,14 +13,11 @@ Questions and Inquiries: [zach@zachkral.com](mailto:zach@zachkrall.com)
 
 # GIFs, what even are they
 
-## Technical Specs
-
-
 A .gif file is used for bitmap images (or images built around pixels). While this file type has a significantly smaller color space, it supports animation which draws the most appeal for its use. [[Wikipedia](https://en.wikipedia.org/wiki/GIF)]
 
+## Why would we want to use them?
 
-* Why would we want to use them?
-  * Beginning origins on the internet
+GIFs original were a great way for special content or navigation on a website to have some added flair and be more visible beyond boring hyperlinks. If you don't remember, [take a look at the (still live) website for the movie Space Jam](https://www.warnerbros.com/archive/spacejam/movie/jam.htm).
  
  
 ## Reaction GIFs
