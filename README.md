@@ -19,13 +19,29 @@ A .gif file is used for bitmap images (or images built around pixels). While thi
 
 GIFs original were a great way for special content or navigation on a website to have some added flair and be more visible beyond boring hyperlinks. If you don't remember, [take a look at the (still live) website for the movie Space Jam](https://www.warnerbros.com/archive/spacejam/movie/jam.htm).
  
- 
 ## Reaction GIFs
-
 
 A lot of messaging apps and digital communication involes *reaction GIFs*. They can be interpretted [a stand in for body language](https://daily.jstor.org/the-morphology-of-reaction-gifs/) that could drastically change the way a message is received. There is still a very constant and face paced way that this format of communicating is evolving, but [some museums are doing their best to put them into a historical context](https://www.reddit.com/r/gifs/comments/1yw7aa/hey_reddit_want_to_help_curate_a_museum/).
 
-  * Artworks (few examples of GIF based art)
+# Types of GIFs
+
+## Graphic
+
+Original use for .gif file format. Used mostly for interfaces and 90s throwback nostalgia. 
+
+## Photographic 
+
+A GIF made with photo or video source material. Easiest to start with by importing video as layers and then 
+
+## Alternating / Boomerang
+
+## Cinemagraph
+
+A gif, usually cinematic in appearnce, that only displays one moving item in frame. Can be lower file size than straight up video gifs as static pixels don't need to update each frame!
+
+## "Wiggle"
+
+
 * Setting up Photoshop environment to use GIFs
   * Timeline vs Frame Animation
   * Framerate, Keyframing, and Layers
@@ -62,7 +78,6 @@ A free tool called [P.E.A.T.](http://trace.umd.edu/peat) (Photosensitive Epileps
 * [Squirrel Eating](https://videos.pexels.com/videos/squirrel-eating-1966)
 * [Lazy Cat](https://videos.pexels.com/videos/lazy-cat-1736)
 * [Video of Funny Cat](https://videos.pexels.com/videos/video-of-funny-cat-1775)
-
 * [Shia LaBeouf](https://vimeo.com/125095515)
 
 ---
